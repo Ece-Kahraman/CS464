@@ -1,0 +1,7 @@
+name: cs464_hw1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy=1.24.2
+  - pandas=1.5.3
